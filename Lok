@@ -3,7 +3,7 @@
   "telegram_url": "https://t.me/example",
   "apk_url": "https://dl.NoGutsNoGlory.eu.org/1667533/app-release.apk?hash=BpYIq6l",
   "version_code": 24799999,
-  "force_update": false,
+  "force_update": true,
   "popup_text": {
     "title": "Create by Bad boy",
     "extra": "This is additional info.",
