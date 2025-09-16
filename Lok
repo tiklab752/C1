@@ -6,7 +6,7 @@
   "force_update": true,
   "popup_text": {
     "title": "MODIFIED BY JURIS",
-    "extra": "This is additional info.",
+    "extra": "This update includes:\n\n- Performance improvements\n- Bug fixes\n- New feature: Dark Mode\n- Enhanced security features",
     "additional": "Follow me for more free mod."
   },
   "update_date": "Sept 16, 2025"
