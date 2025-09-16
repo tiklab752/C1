@@ -1,13 +1,13 @@
 {
-  "apk_size": "1.10 MB",
-  "telegram_url": "https://t.me/example",
-  "apk_url": "https://dl.NoGutsNoGlory.eu.org/1667533/app-release.apk?hash=BpYIq6l",
-  "version_code": 24799999,
+  "apk_size": "95 MB",
+  "telegram_url": "https://www.facebook.com/share/1FXGf4GDHu/",
+  "apk_url": "https://www.dropbox.com/scl/fi/fc9cn04q52fvz6f9aoduy/Loklok_By_Juris_clone.apk?rlkey=6dtg85uf2u5frpm11ci49li9e&st=hlppkjq0&dl=1",
+  "version_code": 3120,
   "force_update": true,
   "popup_text": {
-    "title": "Create by Bad boy",
+    "title": "MODIFIED BY JURIS",
     "extra": "This is additional info.",
-    "additional": "For more updates, join our Telegram group."
+    "additional": "Follow me for more free mod."
   },
-  "update_date": "Jun 03, 2025"
+  "update_date": "Sept 16, 2025"
 }
