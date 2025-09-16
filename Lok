@@ -1,13 +1,12 @@
 {
-  "apk_size": "95 MB",
-  "telegram_url": "https://www.facebook.com/share/1FXGf4GDHu/",
-  "apk_url": "https://www.dropbox.com/scl/fi/fc9cn04q52fvz6f9aoduy/Loklok_By_Juris_clone.apk?rlkey=6dtg85uf2u5frpm11ci49li9e&st=hlppkjq0&dl=1",
-  "version_code": 3120,
-  "force_update": true,
-  "popup_text": {
-    "title": "MODIFIED BY JURIS",
-    "extra": "This update includes:\n\n- Performance improvements\n- Bug fixes\n- New feature: Dark Mode\n- Enhanced security features",
-    "additional": "Follow me for more free mod."
-  },
-  "update_date": "Sept 16, 2025"
+  "Title": "New Update Available",
+  "versionCode": "11",
+  "versionName": "1.0.5",
+  "updateSize": "36 MB",
+  "releaseDate": "July 15, 2025",
+  "Msg": "This update includes:\n\n- Performance improvements\n- Bug fixes\n- New feature: Dark Mode\n- Enhanced security features",
+  "downloadLink": "https://www.dropbox.com/scl/fi/fc9cn04q52fvz6f9aoduy/Loklok_By_Juris_clone.apk?rlkey=6dtg85uf2u5frpm11ci49li9e&st=hlppkjq0&dl=1",
+  "Browser link": "https://www.designlabofficial.site/p/download.html",
+  "forceUpdate": true,
+  "Direct Function": true
 }
