@@ -1,8 +1,8 @@
 {
-  "showUpdate": false,
+  "showUpdate": true,
   "title": "🔔 New Update Available!",
-  "message": "Please update the app to continue using it.",
+  "message": "Please update the app to continue using it by juris.",
   "buttonText": "Update Now",
-  "updateUrl": "https://www.facebook.com/share/1P5GqwZzia/",
+  "updateUrl": "",
   "credit": "MR. NoOB"
 }
