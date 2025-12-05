@@ -1,12 +1,12 @@
 {
   "Title": "New Update Available",
-  "versionCode": "3120",
-  "versionName": "3.12.0",
+  "versionCode": "3128",
+  "versionName": "3.14.0",
   "updateSize": "95.75 MB",
   "releaseDate": "spet 16, 2025",
   "Msg": "Mod info:\n\n- Premium/vip\n- Bug fixes\n- Auto update\n- Modified by juris",
-  "downloadLink": "https://www.dropbox.com/scl/fi/j1rgzhx1mbw4vukg43mj1/Loklok_By_Juris_clone.apk?rlkey=nrioeapurzjg5xoc4cmnqbjh9&st=4xsy7wvm&dl=1",
-  "Browser link": "https://www.designlabofficial.site/p/download.html",
+  "downloadLink": "",
+  "Browser link": "",
   "forceUpdate": true,
   "Direct Function": true
 }
