@@ -25,6 +25,8 @@
     "server3": {
       "startUrl": "https://go.arlinks.in/J0Aw",
       "verifyUrl": "https://appteka.store/profile/491169"
+      "showBackButton": true,
+      "showTurialButton": true,
     }
   }
 }
