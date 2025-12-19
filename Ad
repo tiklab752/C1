@@ -17,8 +17,8 @@
       "verifyUrl": "Ansari.com"
     },
     "server3": {
-      "startUrl": "https://shortxlinks.in/juris",
-      "verifyUrl": "https://www.facebook.com/share/1VvU73V2yr"
+      "startUrl": "https:\/\/shortxlinks.in\/juris",
+      "verifyUrl": "https://www.facebook.com/share/1VvU73V2yr/"
     }
   }
 }
