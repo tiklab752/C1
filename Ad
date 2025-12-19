@@ -1,0 +1,24 @@
+{
+  "title": "⚡Ads Verification⚡",
+  "message": "All text and titles can be replaced with json\nworking on the app right now\n🌟 Add Your text\n🌟 Add your text\n🌟 Add your text\n🌟 Add your text",
+  "telegramLink": "t.me/your_channel",
+  "whatsappLink": "wa.me/your_number",
+  "youtubeLink": "youtube.com/your_channel",
+  "showUpdate": false,
+  "updateLink": "yourdomain.com/update.apk",
+  "showVerify": true,
+  "serverLinks": {
+    "server1": {
+      "startUrl": "https://go.arlinks.in/yc7TeZi",
+      "verifyUrl": "https://youtube.com/@OpModsForYou"
+    },
+    "server2": {
+      "startUrl": "https://go.arlinks.in/wheKH24",
+      "verifyUrl": "Ansari.com"
+    },
+    "server3": {
+      "startUrl": "https://shortxlinks.in/juris",
+      "verifyUrl": "https://www.facebook.com/share/1VvU73V2yr"
+    }
+  }
+}
