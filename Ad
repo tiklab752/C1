@@ -10,7 +10,7 @@
   "showGetPinButton": false,
   "getPinUrl": "https://go.arlinks.in/wheKH24",
   "showPinVerifyButton": false,
-  "showPinUI": true,
+  "showPinUI": false,
   "pinPromptText": "Enter Your 4-Digit Verification Pin",
   "correctPin": "1235",
   "serverLinks": {
